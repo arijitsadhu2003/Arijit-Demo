@@ -1,3 +1,3 @@
 # Arijit-Demo
-This is my first Git Repository 
+This is my first Git Repository. 
 Autuor- Arijit Sadhu
